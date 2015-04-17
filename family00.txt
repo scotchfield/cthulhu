@@ -1,0 +1,46 @@
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Mother
+Mother
+Mother
+Mother
+Father
+Father
+Father
+Father
+Mother, Father
+Mother, Father
+Mother, Father
+Mother, Father
+Mother, Father
+Mother, Father
+Mother, Father
+Mother, 1 Brother
+Mother, 2 Brothers
+Mother, 3 Brothers
+Mother, 1 Sister
+Mother, 2 Sisters
+Mother, 3 Sisters
+Mother, 1 Brother, 1 Sister
+Mother, 1 Brother, 1 Sister
+Mother, 1 Brother, 1 Sister
+Father, 1 Brother
+Father, 2 Brothers
+Father, 3 Brothers
+Father, 1 Sister
+Father, 2 Sisters
+Father, 3 Sisters
+Father, 1 Brother, 1 Sister
+Father, 1 Brother, 1 Sister
+Father, 1 Brother, 1 Sister

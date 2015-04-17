@@ -1,0 +1,44 @@
+New York, NY
+Chicago, IL
+Philadelphia, PA
+St. Louis, MO
+Boston, MA
+Baltimore, MD
+Cleveland, OH
+Buffalo, NY
+San Francisco, CA
+Cincinnati, OH
+Pittsburgh, PA
+New Orleans, LA
+Detroit, MI
+Milwaukee, WI
+Washington, DC
+Newark, NJ
+Jersey City, NJ
+Louisville, KY
+Minneapolis, MN
+Providence, RI
+Indianapolis, IN
+Kansas City, MO
+St. Paul, MN
+Rochester, NY
+Denver, CO
+Toledo, OH
+Allegheny, PA
+Columbus, OH
+Worchester, MA
+Syracuse, NY
+New Haven, CT
+Paterson, NJ
+Fall River, MA
+St. Joseph, MO
+Omaha, NE
+Los Angeles, CA
+Memphis, TN
+Scranton, PA
+Lowell, MA
+Albany, NY
+London, United Kingdom
+Vienna, Austria
+Manchester, United Kingdom
+Arkham, MA
