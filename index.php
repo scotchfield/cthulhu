@@ -616,7 +616,6 @@ insane souls.  This character generator is provided by Scott Grant, but
 any characters generated are your own.  My PHP, your results.  Common 
 sense applies here.</font></center>
 
-<?
-
-
-?>
+<center><a href="https://github.com/scotchfield/cthulhu">
+  <img src="GitHub-Mark-32px.png">
+</a></center>
